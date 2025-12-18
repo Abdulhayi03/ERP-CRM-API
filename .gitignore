@@ -1,8 +1,2 @@
 node_modules/
-*.zip
-.DS_Store
-.idea
-notes.md
 .env
-
-*.pdf
